@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-120b07612ac416d8e0a1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PracticaQT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-b8103a903fc642a39660.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-bddee8f305ed4b178266.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-a3fa18d17301fc09b0b9.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-972a4937ea3facb7a104.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPracticaQT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPracticaQT-Debug-e97940af3cd87b0c025d.json",
+					"name" : "appPracticaQT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPracticaQT_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPracticaQT_autogen-Debug-58dca9af8411a11b6b6d.json",
+					"name" : "appPracticaQT_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPracticaQT_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPracticaQT_autogen_timestamp_deps-Debug-4321d02652b3b677187a.json",
+					"name" : "appPracticaQT_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPracticaQT_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPracticaQT_qmlimportscan-Debug-bb5bc1b106f214317d8a.json",
+					"name" : "appPracticaQT_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPracticaQT_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPracticaQT_qmllint-Debug-b240bc95bbfa7dec5b2d.json",
+					"name" : "appPracticaQT_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPracticaQT_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPracticaQT_qmllint_json-Debug-e99d3a0bf423dbe4657d.json",
+					"name" : "appPracticaQT_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPracticaQT_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPracticaQT_qmllint_module-Debug-bbecdee5ab104124718d.json",
+					"name" : "appPracticaQT_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPracticaQT_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPracticaQT_qmltyperegistration-Debug-146d212069d1807fd8c8.json",
+					"name" : "appPracticaQT_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPracticaQT_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPracticaQT_tooling-Debug-ae30649a4c33e2c11d88.json",
+					"name" : "appPracticaQT_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jualopala/Documents/PracticaQT/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/jualopala/Documents/PracticaQT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
