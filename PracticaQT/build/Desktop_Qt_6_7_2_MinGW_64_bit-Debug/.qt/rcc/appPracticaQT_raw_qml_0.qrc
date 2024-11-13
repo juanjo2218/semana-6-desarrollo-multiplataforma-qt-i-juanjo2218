@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/PracticaQT/">
+    <file alias="Main.qml">C:/Users/jualopala/Documents/PracticaQT/Main.qml</file>
+    <file alias="MyButton.qml">C:/Users/jualopala/Documents/PracticaQT/MyButton.qml</file>
+    <file alias="MyElement.qml">C:/Users/jualopala/Documents/PracticaQT/MyElement.qml</file>
+  </qresource>
+</RCC>
+

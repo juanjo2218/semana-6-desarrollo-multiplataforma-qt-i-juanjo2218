@@ -1,0 +1,7 @@
+module PracticaQT
+typeinfo appPracticaQT.qmltypes
+prefer :/qt/qml/PracticaQT/
+Main 1.0 Main.qml
+MyButton 1.0 MyButton.qml
+MyElement 1.0 MyElement.qml
+
